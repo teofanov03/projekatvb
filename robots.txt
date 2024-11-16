@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+sitemap:https://teofanov03.github.io/projekatvb/sitemap.xml
